@@ -1,0 +1,1 @@
+Conteúdo inicial do exemplo.txt no host.
